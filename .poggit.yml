@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Falkirks/OreBroadcast
+branches:
+- master
+projects:
+  OreBroadcast:
+    path: ""
+...
